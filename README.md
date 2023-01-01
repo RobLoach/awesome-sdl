@@ -8,6 +8,7 @@
 
 - [Libraries](#libraries)
 - [Bindings](#bindings)
+- [Templates](#templates)
 
 ## Libraries
 
@@ -17,6 +18,8 @@
 - [SDL_image](https://github.com/libsdl-org/SDL_image) - Image decoding for many popular formats for SDL [```[ZLIB]```][ZLIB]
 - [SDL_ttf](https://github.com/libsdl-org/SDL_ttf) - Support for TrueType (.ttf) font files with SDL [```[ZLIB]```][ZLIB]
 - [SDL_net](https://github.com/libsdl-org/SDL_net) - A simple, cross-platform wrapper over TCP/IP sockets [```[ZLIB]```][ZLIB]
+- [SDL_tty](https://github.com/Grumbel/SDL_tty) - TTY-like interface for SDL [```[GPL]```][GPL]
+- [SDL_gpu](https://github.com/grimfang4/sdl-gpu) - library for making hardware-accelerated 2D graphics easy [```[MIT]```][MIT]
 
 ## Bindings
 
@@ -35,6 +38,11 @@
 - [PySDL2](https://pypi.org/project/PySDL2/)
 - [pysdl2-cffi](https://pythonhosted.org/pysdl2-cffi/)
 - [Rust-SDL2](https://github.com/Rust-SDL2/rust-sdl2)
+- [sdlpp](https://github.com/mika314/sdlpp) - C++ wrapper for SDL2
+
+## Templates
+
+- [sdl-bgfx-imgui-starter](https://github.com/pr0g/sdl-bgfx-imgui-starter) - Starter project for graphics applications using SDL, bgfx and Dear ImGui
 
 ## License
 
