@@ -19,7 +19,8 @@
 - [SDL_ttf](https://github.com/libsdl-org/SDL_ttf) - Support for TrueType (.ttf) font files with SDL [```[ZLIB]```][ZLIB]
 - [SDL_net](https://github.com/libsdl-org/SDL_net) - A simple, cross-platform wrapper over TCP/IP sockets [```[ZLIB]```][ZLIB]
 - [SDL_tty](https://github.com/Grumbel/SDL_tty) - TTY-like interface for SDL [```[GPL]```][GPL]
-- [SDL_gpu](https://github.com/grimfang4/sdl-gpu) - library for making hardware-accelerated 2D graphics easy [```[MIT]```][MIT]
+- [SDL_gpu](https://github.com/grimfang4/sdl-gpu) - Library for making hardware-accelerated 2D graphics easy [```[MIT]```][MIT]
+- [SDL_sound](https://github.com/icculus/SDL_sound) - An abstract soundfile decoder [```[MIT]```][MIT]
 
 ## Bindings
 
