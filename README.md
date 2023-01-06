@@ -19,8 +19,12 @@
 - [SDL_ttf](https://github.com/libsdl-org/SDL_ttf) - Support for TrueType (.ttf) font files with SDL [```[ZLIB]```][ZLIB]
 - [SDL_net](https://github.com/libsdl-org/SDL_net) - A simple, cross-platform wrapper over TCP/IP sockets [```[ZLIB]```][ZLIB]
 - [SDL_tty](https://github.com/Grumbel/SDL_tty) - TTY-like interface for SDL [```[GPL]```][GPL]
-- [SDL_gpu](https://github.com/grimfang4/sdl-gpu) - Library for making hardware-accelerated 2D graphics easy [```[MIT]```][MIT]
+- [SDL-gpu](https://github.com/grimfang4/sdl-gpu) - Library for making hardware-accelerated 2D graphics easy [```[MIT]```][MIT]
 - [SDL_sound](https://github.com/icculus/SDL_sound) - An abstract soundfile decoder [```[MIT]```][MIT]
+- [SDL_rtf](https://github.com/libsdl-org/SDL_rtf/) - Display Rich Text Format (RTF) documents in your SDL applications [```[ZLIB]```][ZLIB]
+- [Dear ImGUI](https://github.com/ocornut/imgui) - Immediate-mode graphical user interface [```[MIT]```][MIT]
+- [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) A single-header ANSI C immediate mode cross-platform GUI library [```[MIT]```][MIT]
+- [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library
 
 ## Bindings
 
