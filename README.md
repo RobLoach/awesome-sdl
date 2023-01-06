@@ -25,6 +25,7 @@
 - [Dear ImGUI](https://github.com/ocornut/imgui) - Immediate-mode graphical user interface [```[MIT]```][MIT]
 - [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) A single-header ANSI C immediate mode cross-platform GUI library [```[MIT]```][MIT]
 - [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library
+- [SDL_stbimage.h](https://github.com/DanielGibson/Snippets/blob/master/SDL_stbimage.h) - Load images into SDL with [stb_image.h](https://github.com/nothings/stb) [```[PD]```][PD]
 
 ## Bindings
 
@@ -66,3 +67,4 @@ This is released under the [**```Creative Commons Attribution 4.0 International`
 [MPL]: https://www.mozilla.org/en-US/MPL/2.0/
 [UNLICENSE]: https://unlicense.org/
 [ZLIB]: https://opensource.org/licenses/Zlib
+[PD]: https://wiki.creativecommons.org/wiki/public_domain
