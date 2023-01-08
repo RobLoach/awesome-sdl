@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-* Use the following format: `[library](link) - Description [```[MIT]```][MIT]`
+* Use the following format: `| [library](link) | Description | [```MIT```][MIT]` |
 * The link should be the name of the package or project
 * Keep descriptions concise, clear and simple, without a period at the end
 * If there is no license use the `[NO LICENSE]` tag
