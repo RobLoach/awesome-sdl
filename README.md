@@ -47,6 +47,7 @@
 | [pygame_sdl2](https://github.com/renpy/pygame_sdl2) | Python |
 | [PySDL2](https://pypi.org/project/PySDL2/) | Python |
 | [pysdl2-cffi](https://pythonhosted.org/pysdl2-cffi/) | Python |
+| [pygame-ce](https://github.com/pygame-community/pygame-ce) | Python |
 | [Rust-SDL2](https://github.com/Rust-SDL2/rust-sdl2) | Rust |
 | [sdlpp](https://github.com/mika314/sdlpp) | C++ |
 | [odl](https://github.com/Marin-MK/odl) | C# |
