@@ -33,7 +33,7 @@
 
 | Name | Language |
 | ---- | ----------- |
-| [SDL-Ada](https://github.com/Lucretia/sdlada) | Ada |
+| [SDLAda](https://github.com/Lucretia/sdlada) | Ada |
 | [BeefLibs SDL2](https://github.com/beefytech/Beef/tree/master/BeefLibs/SDL2) | Beef |
 | [C# SDL2#](https://github.com/flibitijibibo/SDL2-CS) | C# |
 | [D DerelictSDL2](https://derelictorg.github.io/packages/sdl2/) | D |
