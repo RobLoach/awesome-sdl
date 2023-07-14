@@ -18,6 +18,7 @@
 | [SDL_mixer](https://github.com/libsdl-org/SDL_mixer) | An audio mixer that supports various file formats for SDL | [```ZLIB```][ZLIB] |
 | [SDL_gesture](https://github.com/libsdl-org/SDL_gesture) | SDL2's gesture API split out into a single-header library | [```ZLIB```][ZLIB] |
 | [SDL_image](https://github.com/libsdl-org/SDL_image) | Image decoding for many popular formats for SDL | [```ZLIB```][ZLIB] |
+| [SDL_PhysFS](https://github.com/RobLoach/SDL_PhysFS) | [PhysicsFS](https://github.com/icculus/physfs) virtual file system support for SDL | [```ZLIB```][ZLIB] |
 | [SDL_ttf](https://github.com/libsdl-org/SDL_ttf) | Support for TrueType (.ttf) font files with SDL | [```ZLIB```][ZLIB] |
 | [SDL_net](https://github.com/libsdl-org/SDL_net) | A simple, cross-platform wrapper over TCP/IP sockets | [```ZLIB```][ZLIB] |
 | [SDL_tty](https://github.com/Grumbel/SDL_tty) | TTY-like interface for SDL | [```GPL```][GPL] |
