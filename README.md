@@ -11,9 +11,9 @@
 - [Templates](#templates)
 
 ## Libraries
+
 | Name | Description | License |
 | ---- | ----------- | ------- |
-| [SDL_App](https://github.com/robloach/sdl_app) | Application wrapper for SDL | [```ZLIB```][ZLIB] |
 | [SDL_assetsys](https://github.com/RobLoach/SDL_assetsys) | Load SDL assets from .zip files with the file abstraction library, assetsys | [```ZLIB```][ZLIB] |
 | [SDL_gfx](https://www.ferzkopp.net/wordpress/2016/01/02/sdl_gfx-sdl2_gfx/) | Graphics drawing primitives and other support functions | [```ZLIB```][ZLIB] |
 | [SDL_mixer](https://github.com/libsdl-org/SDL_mixer) | An audio mixer that supports various file formats for SDL | [```ZLIB```][ZLIB] |
@@ -59,6 +59,7 @@
 | Name | Description |
 | ---- | ----------- |
 | [sdl-bgfx-imgui-starter](https://github.com/pr0g/sdl-bgfx-imgui-starter) | Starter project for graphics applications using SDL, bgfx and Dear ImGui |
+| [SDL3 App from Source Minimal Example](https://github.com/ravbug/sdl3-sample) | Example for building and using SDL3 from source using C++ and CMake |
 
 ## License
 
