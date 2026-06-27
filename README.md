@@ -28,6 +28,7 @@
 | [SDL_rtf](https://github.com/libsdl-org/SDL_rtf/) | Display Rich Text Format (RTF) documents in your SDL applications | [```ZLIB```][ZLIB] |
 | [Dear ImGUI](https://github.com/ocornut/imgui) | Immediate-mode graphical user interface | [```MIT```][MIT] |
 | [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) | A single-header ANSI C immediate mode cross-platform GUI library | [```MIT```][MIT] |
+| [SDL_ini](https://github.com/RobLoach/SDL_ini) | Single-header library to load and save INI configuration files. | [```ZLIB```][ZLIB] |
 | [bgfx](https://github.com/bkaradzic/bgfx) | Cross-platform, graphics API agnostic, rendering library | [```BSD-2```][BSD-2] |
 | [SDL_stbimage.h](https://github.com/DanielGibson/Snippets/blob/master/SDL_stbimage.h) | Load images into SDL with [stb_image.h](https://github.com/nothings/stb) | [```PD```][PD] |
 
