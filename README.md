@@ -30,6 +30,7 @@
 | [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) | A single-header ANSI C immediate mode cross-platform GUI library | [```MIT```][MIT] |
 | [SDL_ini](https://github.com/RobLoach/SDL_ini) | Single-header library to load and save INI configuration files. | [```ZLIB```][ZLIB] |
 | [bgfx](https://github.com/bkaradzic/bgfx) | Cross-platform, graphics API agnostic, rendering library | [```BSD-2```][BSD-2] |
+| [sdl-stb-font](https://github.com/SnapperTT/sdl-stb-font) | Renders text using STB_Truetype in pure SDL | [```PD```][PD] |
 | [SDL_stbimage.h](https://github.com/DanielGibson/Snippets/blob/master/SDL_stbimage.h) | Load images into SDL with [stb_image.h](https://github.com/nothings/stb) | [```PD```][PD] |
 
 ## Bindings
