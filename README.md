@@ -6,7 +6,7 @@
 
 ## Contents
 
-- [Official & Core SDL Extensions](#official--core-sdl-extensions)
+- [Extensions](#sdl-extensions)
 - [GUI & UI Toolkits](#gui--ui-toolkits)
 - [Language Bindings & Wrappers](#language-bindings--wrappers)
 - [2D & 3D Game Engines](#2d--3d-game-engines)
@@ -14,11 +14,11 @@
 - [Emulators & Media Frontends](#emulators--media-frontends)
 - [Audio Engines & Integration](#audio-engines--integration)
 - [Rendering & Shader Utilities](#rendering--shader-utilities)
-- [Media & Desktop Streaming Tools](#media--desktop-streaming-tools)
+- [Media](#media)
 - [System Shims, Portability, & Helper Libraries](#system-shims-portability--helper-libraries)
 - [Templates](#templates)
 
-## Official & Core SDL Extensions
+## Extensions
 
 | Name | Description | License |
 | ---- | ----------- | ------- |
@@ -133,6 +133,7 @@
 | [MAME](https://github.com/mamedev/mame) | Arcade machine emulator using SDL to run on Linux, macOS, and BSD systems | [```GPL2```][GPL2] |
 | [Amiberry](https://github.com/BlitterStudio/amiberry) | Optimized Amiga emulator for ARM and desktop platforms built with SDL2 | [```GPL```][GPL] |
 | [Hypseus Singe](https://github.com/DirtBagXon/hypseus-singe) | SDL3-based Daphne Laserdisc arcade game emulator | [```GPL```][GPL] |
+| [SDL_Libretro](https://github.com/RobLoach/SDL_libretro/) | A libretro emulator frontend library for SDL3. | [```ZLIB```][ZLIB] |
 
 ## Audio Engines & Integration
 
@@ -158,7 +159,7 @@
 | [gl3w](https://github.com/skaslev/gl3w) | OpenGL extension loader routinely bundled into SDL boilerplate setups | [```UNLICENSE```][UNLICENSE] |
 | [glad](https://github.com/Dav1dde/glad) | OpenGL extension loader routinely bundled into SDL boilerplate setups | [```MIT```][MIT] |
 
-## Media & Desktop Streaming Tools
+## Media
 
 | Name | Description | License |
 | ---- | ----------- | ------- |
