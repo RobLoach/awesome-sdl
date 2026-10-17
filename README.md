@@ -163,6 +163,7 @@
 
 | Name | Description | License |
 | ---- | ----------- | ------- |
+| [Deckboy](https://github.com/Utopian-Academy/Deckboy) | SDL3 cue-based video playback and show control for Windows, macOS and Linux | [```GPL```][GPL] |
 | [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control Android devices over USB/Wi-Fi using SDL2 for rendering | [```APACHE2```][APACHE2] |
 | [Moonlight-QT](https://github.com/moonlight-stream/moonlight-qt) | Open-source GameStream client for NVIDIA hardware using SDL2 for input and display | [```GPL```][GPL] |
 | [MLT Multimedia Framework](https://github.com/mltframework/mlt) | Open-source video editing framework utilizing SDL for audio/video playback | [```LGPL```][LGPL] |
